@@ -1,5 +1,3 @@
-# hello-world
+# Hello 
 
-I can't write in korean. 
-this is not easy
-omg
+I wanna be a Good coding guy or Data analyst. 
